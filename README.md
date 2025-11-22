@@ -1,4 +1,5 @@
 **📂 Project Structure**
+
 resume_based_job_recommendation/
 │── data/
 │   ├── job_descriptions.csv
@@ -12,6 +13,8 @@ resume_based_job_recommendation/
 │
 │── README.md
 │── requirements.txt
+
+
 **How It Works**
 
 User uploads a resume file.
